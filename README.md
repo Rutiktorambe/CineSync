@@ -6,7 +6,7 @@
 
 To install and run the project locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/maciekt07/TodoApp.git`
+- Clone the repository: `git clone https://github.com/Rutiktorambe/CineSync.git`
 - Navigate to the project directory: `cd CineSync`
 - Install the dependencies: `npm install`
 - Start the development server: `npm run dev`
