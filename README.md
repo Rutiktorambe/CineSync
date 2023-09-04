@@ -38,4 +38,13 @@ To install and run the project locally, follow these steps:
 The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
 ## ⚙️ Previews
+
+
 ![CineSync-WebSS](https://github.com/Rutiktorambe/CineSync/assets/114429614/947df527-03f8-4d60-87e3-87833d90e8e5)
+
+
+The Video Demo:-
+
+
+
+https://github.com/Rutiktorambe/CineSync/assets/114429614/f6eb0d3d-4142-4639-b8ff-a09dcceaba55
